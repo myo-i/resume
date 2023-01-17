@@ -53,8 +53,7 @@
         ],
         "allowCommonCase": true
       },
-      "no-unmatched-pair": true,
-      "max-kanji-continuous-len": false
+      "no-unmatched-pair": true
     },
     "preset-jtf-style": {
       "1.1.1.本文": true,
@@ -83,7 +82,7 @@
       "4.2.4.中黒(・)": true,
       "4.2.5.波線(〜)": true,
       "4.2.6.ハイフン(-)": true,
-      "4.2.7.コロン(：)": true,
+      "4.2.7.コロン(:)": true,
       "4.2.8.セミコロン(;)": true,
       "4.2.9.ダッシュ(-)": true,
       "4.3.1.丸かっこ（）": true,
