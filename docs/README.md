@@ -12,7 +12,7 @@
 
 ## 保有スキル
 
-- C# と Pythonを用いた自動化スクリプトの開発
+- C# と Python を用いた自動化スクリプトの開発
 - COBOL→Java へのマイグレーション及び COBOL, Java での開発
 - JUnit と Mockito を使用したマイグレーション後の Java ソース及び自作ツールのテスト
 
