@@ -53,14 +53,14 @@
 **JavaScript/TypeScript**
     - Typescript 4.9.5
 
-<p>
+<!-- <p>
     <img alt="Go" src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-00008B.svg?logo=typescript&style=flat-square" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-1E90FF.svg?logo=python&style=flat-square" />
     <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=pflat-square" />
     <img alt="C#" src="https://img.shields.io/badge/-C%EF%BC%83-BA55D3.svg?logo=&style=flat-square" />
-</p>
+</p> -->
 
 技術に関してはどこまでできるのか？
 基本的なCRUD処理はできますよとか
@@ -88,12 +88,12 @@
 **Github Actions**
     - プライベートで postgres イメージを用いて Go のテストを実行する CI を構築
 
-<p>
+<!-- <p>
     <img alt="rails" src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=pflat-square" />
     <img alt=".NET" src="https://img.shields.io/badge/-.NET-BA55D3.svg?logo=&style=flat-square" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=pflat-square" />
     <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=pflat-square" />
-</p>
+</p> -->
 - 
 
 ---
@@ -179,7 +179,7 @@ CI, CD
 普段の学習では、書籍や動画を用いてアルゴリズムやネットワークなどの基礎を学習しつつ、学んだことをコードで書いて実験したり、競プロなどでアウトプットしています
 またインプットをある程度こなしたら、簡単なアプリや API を作成したり、休日はエンジニアのコミュニティでチーム開発をしてアウトプットしています
 以上のような学習を半年間、毎日行っています
-コーディング時に最も意識していることは、計算量が多くならないように最も適切なデータ構造やアルゴリズムをそれぞれの特徴を踏まえたうえで選択していることです
+コーディング時に最も意識していることは、計算量が多くならないように、最も適切なデータ構造やアルゴリズムをそれぞれの特徴を踏まえたうえで選択していることです
 また技術選定を行っていなくても、なぜその言語やバージョンを選定したのかを考え、間違っていたとしても自分なりの意見を持つように心がけています
 
 
