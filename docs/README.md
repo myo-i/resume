@@ -39,22 +39,7 @@
 
 
 **JavaScript/TypeScript**
-    - Typescript 4.9.5
-
-<!-- <p>
-    <img alt="Go" src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-00008B.svg?logo=typescript&style=flat-square" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-1E90FF.svg?logo=python&style=flat-square" />
-    <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=pflat-square" />
-    <img alt="C#" src="https://img.shields.io/badge/-C%EF%BC%83-BA55D3.svg?logo=&style=flat-square" />
-</p> -->
-
-技術に関してはどこまでできるのか？
-基本的なCRUD処理はできますよとか
-自己PRとかに学習遍歴としてどんなことやったか書く
-技術工夫
-
+    - Typescript 4.9.5を自己学習で利用。
 
 
 ### フレームワーク・その他
@@ -81,13 +66,6 @@
 **Github Actions**
     - プライベートで postgres イメージを用いて Go のテストを実行する CI を構築
 
-<!-- <p>
-    <img alt="rails" src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=pflat-square" />
-    <img alt=".NET" src="https://img.shields.io/badge/-.NET-BA55D3.svg?logo=&style=flat-square" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=pflat-square" />
-    <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=pflat-square" />
-</p> -->
-- 
 
 ---
 
