@@ -96,8 +96,8 @@ CI, CD
     - チーム： 10 人
 - **プロジェクト詳細**
     - 保険系大規模行政システムのマイグレーション案件
-        - COBOL から Java への変換を担当
-        - COBOL 及び Java を用いたツールの作成及びテスト
+        - 変換ツールを用いた COBOL から Java への変換
+        - COBOL 及び Java を用いた開発及びテスト
         - C# または Python を用いた自動化スクリプトを作成
 - **使用技術**  
         - COBOL / Java / C# / Python / PostgreSQL / Docker / AWS
